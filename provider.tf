@@ -7,7 +7,7 @@ terraform {
   }
 
    backend "s3" {
-    bucket = "bittu-remote-state-dev"
+    bucket = "praneeth-pt"
     key    = "ec2-terraform"
     region = "us-east-1"
     encrypt = true
