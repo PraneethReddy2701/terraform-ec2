@@ -5,7 +5,8 @@ terraform {
       version = "6.0.0"
     }
   }
-
+ 
+ # to save the state file in backend like s3
    backend "s3" {
     bucket = "praneeth-pt"
     key    = "ec2-terraform"
