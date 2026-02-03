@@ -1,5 +1,7 @@
 ### Creating EC2 instance manually using console and using Terraform
 
+# loom video : https://www.loom.com/share/bc8c21159dbc490cb5b349d1a925d697
+
 ## Manually using Console
 
 - Login to Console
